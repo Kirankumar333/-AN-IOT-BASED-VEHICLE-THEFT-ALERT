@@ -1,4 +1,4 @@
-# VEHICLE-THEFT-ALERT
+# AN IOT VEHICLE-THEFT-ALERT
 #Overview
 
 The Vehicle-Theft-Alert IoT system is designed to enhance vehicle security by providing real-time alerts in case of unauthorized access or potential theft. This project leverages Internet of Things (IoT) technologies to monitor the vehicle's status and notify the owner immediately through various communication channels. The system is easy to deploy and scalable, making it suitable for a wide range of vehicles.
